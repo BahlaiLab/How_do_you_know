@@ -1,4 +1,4 @@
-# What do you know? 
+# How do you know? 
 ## A podcast exploring the numbers behind our beliefs, and everything in between.
 
 It seems ironic that in an era of big data, truth sometimes seems more elusive than ever. To make better choices about how to manage our lives, our work, and our environment, we need to use the best possible information to guide us. But even with great data, humans don’t always make great choices- we misinterpret, we oversimplify, we fail to see fallacies in logic or flaws in the data itself- and even our most rational examinations of the numbers are fundamentally human, shaped by culture, prior experience, and our internal biases.
